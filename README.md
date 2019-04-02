@@ -14,3 +14,7 @@
 
         Ctrl + Shift + P
         Select python in ./.venv/Scripts/python.exe
+
+## How to update latest version of package "pip"
+
+        python -m pip install --upgrade pip
